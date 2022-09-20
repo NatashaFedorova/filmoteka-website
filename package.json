@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka-website",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://bagetmasta.github.io/filmoteka",
+  "homepage": "https://NatashaFedorova.github.io/filmoteka-website",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /filmoteka-website/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://NatashaFedorova.com/goitacademy/filmoteka-website.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://NatashaFedorova.com/goitacademy/filmoteka-website/issues"
   },
   "dependencies": {
     "bootstrap": "^5.2.1",
